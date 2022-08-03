@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../sass/style.sass"
+	],
+	"sourcesContent": [
+		".promo {\n  .row {\n      background-color: blue;\n      &_header {\n          color: violet; } } }\n\n"
+	],
+	"names": [],
+	"mappings": ";;AAAA,AACE,MADI,CACJ,IAAI,CAAC;EACD,gBAAgB,EAAE,IAAI;CAEA;;;AAJ5B,AAGM,MAHA,CAGC,WAAO,CAAC;EACL,KAAK,EAAE,MAAM;CAAG"
+}
