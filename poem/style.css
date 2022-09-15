@@ -1,0 +1,21 @@
+.poem{
+    display: flex;
+    height: 400px;
+    padding: 216px 522px;
+    
+}
+    .poem__wrapper{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+        
+    }
+.poem2__text{
+    margin-left: 72px;
+    margin-bottom: 155px;
+}
+.poem__img{
+    position: absolute;
+    top: 240px;
+    left: 460px;
+}
