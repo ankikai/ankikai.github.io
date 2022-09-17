@@ -1,0 +1,24 @@
+.end{
+    position: relative;
+    height: 100%;
+    padding: 264px;
+    background: #879CC2;
+}
+button{
+    
+    display: block;
+    margin: 0 auto;
+    background: none;
+    border: none;
+    color: white;
+    font-size: 64px;
+    cursor: pointer;
+}
+.end__img{
+    display: block;
+    margin: 0 auto;
+}
+.end__princess{
+    display: block;
+    margin: 0;
+}
