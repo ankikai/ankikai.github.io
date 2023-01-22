@@ -1,0 +1,19 @@
+.poem{
+    display: flex;
+    height: 400px;
+    margin: auto;
+    
+}
+    .poem__wrapper{
+      display: flex;
+      justify-content: center;
+        
+    }
+.poem2__text{
+    margin-left: 72px;
+    margin-bottom: 155px;
+}
+.poem__img{
+    margin-left: 70px;
+    transform:rotate(12deg);
+}
